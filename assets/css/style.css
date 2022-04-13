@@ -72,6 +72,23 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   border: 1px solid #000;
 }
 
+.slider_imge_comp{
+  padding-top: 100px;
+  display: block;
+  border-top-right-radius: 500px;
+  -webkit-border-top-right-radius: 500px;
+  -moz-border-top-right-radius: 500px;
+  border-bottom-left-radius: 500px;
+  -webkit-border-bottom-left-radius: 500px;
+  -moz-border-bottom-left-radius: 500px;
+  border-top-left-radius: 500px;
+  -webkit-border-top-left-radius: 500px;
+  -moz-border-top-left-radius: 500px;
+  border-bottom-right-radius: 500px;
+  -webkit-border-bottom-right-radius: 500px;
+  -moz-border-bottom-right-radius: 500px;
+ }
+
 .btn-main, .btn-solid-border, .btn-transparent, .btn-small {
   background: #000;
   color: #fff;
@@ -2108,7 +2125,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 .bg-coming-soon {
   background: url("../images/coming-soon-bg.jpeg");
   background-size: cover;
-  height: 100vh;
+  height: 130vh;
 }
 
 .bg-brand-identity {
