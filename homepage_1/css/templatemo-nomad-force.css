@@ -400,7 +400,7 @@ strong {
 }
 
 .slider_imge_comp{
-
+  padding-top: 150px;
   display: block;
   border-top-right-radius: 500px;
   -webkit-border-top-right-radius: 500px;
